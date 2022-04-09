@@ -1,21 +1,30 @@
 
 
 body{
-    padding: 3em 15%;
-    margin: 2;
+    padding: 5%;
+    margin: 5;
     border: 5;
     background-color:;
+    color: white;
+}
+
+.bg-warning { 
+    background-color: white;
+
+}
+
+
+.container { 
+    padding: 5;
+    margin: 15;
+    border: 10;
     color: black;
-}
+
+
+} 
 
 
 
 
 
 
-nav class {
-
-
-
-
-}
