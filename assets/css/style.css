@@ -1,0 +1,16 @@
+body {
+    font-family: 'Rubik', sans-serif;
+
+
+}
+
+.navbar-brand , .nav-link {
+    color: #C27108;
+
+}
+
+.navbar-brand:hover , .nav-link:hover {
+    color: #B79D21;
+    border-bottom: 3px solid #C27108 ;
+
+}
